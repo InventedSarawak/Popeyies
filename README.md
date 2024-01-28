@@ -1,6 +1,6 @@
-<a href="Meme Saber"> <img src="https://github.com/InventedSarawak/Popeyies/blob/main/rimberio%20(2).png" height="300" width="1080"> </a>
+<a href="Meme Saber"> <img src="https://github.com/InventedSarawak/Popeyies/blob/main/rimberio%20(2).png" height="300" width="300"> </a>
 
-<h1 align="center"> <a href="">Popeyies</a> </h1>
+<h1 align="center"> <a href="">Meme Saber</a> </h1>
 
 <p align="center">Meme Saber for Game Jam 2024, inspired by Beat Saber</p>
 
