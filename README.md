@@ -1,6 +1,7 @@
-<img src="https://github.com/InventedSarawak/Popeyies/assets/78657126/06b50897-f876-4e84-8e30-d3ef08647de8" height="300" width="300">
-<img src="https://github.com/InventedSarawak/Popeyies/blob/main/rimberio%20(2).png" height="300" width="300">
-<img src="https://github.com/InventedSarawak/Popeyies/assets/78657126/a9396b73-bb02-408d-97f5-7e20eee51318" height="300" width="300">
+<img src="https://github.com/InventedSarawak/Popeyies/assets/78657126/06b50897-f876-4e84-8e30-d3ef08647de8" height="200" width="200">
+<img src="https://github.com/InventedSarawak/Popeyies/blob/main/rimberio%20(2).png" height="200" width="200">
+<img src="https://github.com/InventedSarawak/Popeyies/assets/78657126/a9396b73-bb02-408d-97f5-7e20eee51318" height="200" width="200">
+
 <h1 align="center"> <a href="">Meme Saber</a> </h1>
 
 <p align="center">Meme Saber for Game Jam 2024, inspired by Beat Saber</p>
