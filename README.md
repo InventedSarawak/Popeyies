@@ -1,13 +1,8 @@
-<div class = "Images">
+<div class = "Images" display="flex">
   <img src="https://github.com/InventedSarawak/Popeyies/assets/78657126/06b50897-f876-4e84-8e30-d3ef08647de8" height="200" width="200">
   <img src="https://github.com/InventedSarawak/Popeyies/blob/main/rimberio%20(2).png" height="200" width="200">
   <img src="https://github.com/InventedSarawak/Popeyies/assets/78657126/a9396b73-bb02-408d-97f5-7e20eee51318" height="200" width="200">
 </div>
-.images {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
 
 <h1 align="center"> <a href="">Meme Saber</a> </h1>
 
